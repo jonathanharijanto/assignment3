@@ -112,6 +112,5 @@ var myLog = new MessageLog ("BlackHatGuy");
 myLog.logMessage("foo",1);
 myLog.logMessage("bar",1);
 myLog.logMessage("baz",1);
-asdfasdfasdf;
 
 //end your code
